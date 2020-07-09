@@ -1,16 +1,18 @@
-### Hi there 👋
+# Xe
 
-<!--
-**Xe/Xe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nephelemancer, [Kastermakfa](https://christine.website/blog/practical-kasmakfa-2019-04-21), Hacker, Ordained Minister
 
-Here are some ideas to get you started:
+You've probably seen [my blog](https://christine.website/blog) on the front page of the Orange Site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Places on the Internet
+
+- [@theprincessxena](https://twitter.com/theprincessxena)
+- [tulpa.dev/cadey](https://tulpa.dev/cadey)
+
+## Contact Methods
+
+Find all of my contact methods [here](https://christine.website/contact).
+
+---
+
+Be well, Creator.
