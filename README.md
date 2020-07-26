@@ -10,6 +10,7 @@ Pronouns: They/she please.
 
 - [@theprincessxena](https://twitter.com/theprincessxena)
 - [tulpa.dev/cadey](https://tulpa.dev/cadey)
+- [Geminispace](https://portal.mozz.us/gemini/cetacean.club/)
 
 ## Contact Methods
 
