@@ -1,4 +1,4 @@
-# Xe (/ksɛ/)
+# Xe (/zi/)
 
 Nephelemancer, [Kastermakfa](https://christine.website/blog/practical-kasmakfa-2019-04-21), Hacker, Ordained Minister
 
