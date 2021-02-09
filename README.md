@@ -4,7 +4,7 @@ Nephelemancer, [Kastermakfa](https://christine.website/blog/practical-kasmakfa-2
 
 You've probably seen [my blog](https://christine.website/blog) on the front page of the Orange Site.
 
-Pronouns: [Xe/xer](http://pronoun.is/xe/xer/xer/xers/xerself), [They/them](http://pronoun.is/they) or [She/her](http://pronoun.is/she) please.
+Please call me (order of preference): [Xe/xer](http://pronoun.is/xe/xer/xer/xers/xerself), [They/them](http://pronoun.is/they) or [She/her](http://pronoun.is/she) please.
 
 ## Other Places on the Internet
 
