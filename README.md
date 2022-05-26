@@ -14,7 +14,7 @@ Please call me (order of preference): [Xe/xer](http://pronoun.is/xe/xer/xer/xers
 
 ## Contact Methods
 
-Find all of my contact methods [here](https://christine.website/contact).
+Find all of my contact methods [here](https://xeiaso.net/contact).
 
 ---
 
