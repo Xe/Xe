@@ -1,8 +1,8 @@
 # Xe (/zi/)
 
-Nephelemancer, [Kastermakfa](https://christine.website/blog/practical-kasmakfa-2019-04-21), Hacker, Ordained Minister
+Nephelemancer, [Kastermakfa](https://xeiaso.net/blog/practical-kasmakfa-2019-04-21), Hacker, Ordained Minister
 
-You've probably seen [my blog](https://christine.website/blog) on the front page of the Orange Site.
+You've probably seen [my blog](https://xeiaso.net/blog) on the front page of the Orange Site.
 
 Please call me (order of preference): [Xe/xer](http://pronoun.is/xe/xer/xer/xers/xerself), [They/them](http://pronoun.is/they) or [She/her](http://pronoun.is/she) please.
 
