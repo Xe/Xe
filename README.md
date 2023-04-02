@@ -6,6 +6,10 @@ You've probably seen [my blog](https://xeiaso.net/blog) on the front page of the
 
 Please call me (order of preference): [Xe/xer](http://pronouns.within.lgbt/xe/xer), [They/them](http://pronouns.within.lgbt/they) or [She/her](http://pronouns.within.lgbt/she) please.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Xe/site,Xe/waifud,Xe/Xeact,Xe/olin,Xe/x,Xe/when-then-zen,Xe/nixos-configs,Xe/xess&type=Timeline)](https://star-history.com/#Xe/site&Xe/waifud&Xe/Xeact&Xe/olin&Xe/x&Xe/when-then-zen&Xe/nixos-configs&Xe/xess&Timeline)
+
 ## Other Places on the Internet
 
 - [@theprincessxena](https://twitter.com/theprincessxena)
