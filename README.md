@@ -8,7 +8,7 @@ Please call me (order of preference): [Xe/xer](http://pronouns.within.lgbt/xe/xe
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Xe/site,Xe/waifud,Xe/Xeact,Xe/olin,Xe/x,Xe/when-then-zen,Xe/nixos-configs,Xe/xess&type=Timeline)](https://star-history.com/#Xe/site&Xe/waifud&Xe/Xeact&Xe/olin&Xe/x&Xe/when-then-zen&Xe/nixos-configs&Xe/xess&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Xe/site,Xe/waifud,Xe/when-then-zen,Xe/xess&type=Timeline)](https://star-history.com/#Xe/site&Xe/waifud&Xe/x&Xe/when-then-zen&Xe/xess&Timeline)
 
 ## Other Places on the Internet
 
