@@ -4,7 +4,7 @@ Nephelemancer, [Kastermakfa](https://xeiaso.net/blog/practical-kasmakfa-2019-04-
 
 You've probably seen [my blog](https://xeiaso.net/blog) on the front page of the Orange Site.
 
-Please call me (order of preference): [Xe/xer](http://pronouns.within.lgbt/xe/xer), [They/them](http://pronouns.within.lgbt/they) or [She/her](http://pronouns.within.lgbt/she) please.
+Please call me (order of preference): [They/them](http://pronouns.within.lgbt/they) or [She/her](http://pronouns.within.lgbt/she) please.
 
 ## Star History
 
