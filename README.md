@@ -12,9 +12,7 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 
 ## Other Places on the Internet
 
-- [@theprincessxena](https://twitter.com/theprincessxena)
-- [tulpa.dev/cadey](https://tulpa.dev/cadey)
-- [Geminispace](https://portal.mozz.us/gemini/cetacean.club/)
+- [@xeiaso.net](https://bsky.app/profile/xeiaso.net)
 
 ## Contact Methods
 
