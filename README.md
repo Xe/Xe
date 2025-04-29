@@ -8,7 +8,7 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Xe/site,Xe/waifud,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline)](https://star-history.com/#Xe/site&Xe/waifud&Xe/x&Xe/when-then-zen&Xe/xess&TecharoHQ/anubis&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Xe/site,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline)](https://star-history.com/#Xe/site&Xe/waifud&Xe/x&Xe/when-then-zen&Xe/xess&TecharoHQ/anubis&Timeline)
 
 ## Other Places on the Internet
 
