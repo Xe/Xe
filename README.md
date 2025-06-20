@@ -14,6 +14,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 
 - [@xeiaso.net](https://bsky.app/profile/xeiaso.net)
 
+## Recent blogposts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Sponsors ❤️
 
 All these lovely people help make my hacking possible! Thanks so much!
