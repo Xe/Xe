@@ -17,6 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
+- [I fight bots in my free time](https://xeiaso.net/talks/2025/bsdcan-anubis/)
+- [Apple just Sherlocked Docker](https://xeiaso.net/notes/2025/dubdub/)
+- [Avoiding becoming the lone dependency peg with load-bearing anime](https://xeiaso.net/blog/2025/avoiding-becoming-peg-dependency/)
+- [An year of the Linux Desktop](https://xeiaso.net/blog/2025/yotld/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
