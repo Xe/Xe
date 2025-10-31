@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking steps to end traffic from abusive cloud providers](https://anubis.techaro.lol/blog/2025/file-abuse-reports)
+- [Fearless dataset experimentation with bucket forking](https://www.tigrisdata.com/blog/dataset-experimentation/)
 - [First look at the DGX Spark](https://xeiaso.net/blog/2025/dgx-spark-first-look/)
 - [Hastily made coffee video](https://xeiaso.net/videos/2025/hastily-made-coffee-video/)
-- [We all dodged a bullet](https://xeiaso.net/notes/2025/we-dodged-a-bullet/)
-- [Final Fantasy 14 on macOS with a 36 key keyboard](https://xeiaso.net/notes/2025/xiv-mac/)
-- [My responses to The Register](https://xeiaso.net/notes/2025/el-reg-responses/)
+- [Announcing the Tigris Storage SDK](https://www.tigrisdata.com/blog/storage-sdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
