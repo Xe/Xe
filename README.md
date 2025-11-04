@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Immutable by Design: The Deep Tech Behind Tigris Bucket Forking](https://www.tigrisdata.com/blog/bucket-forking-deep-dive/)
 - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/)
 - [Taking steps to end traffic from abusive cloud providers](https://anubis.techaro.lol/blog/2025/file-abuse-reports)
 - [Fearless dataset experimentation with bucket forking](https://www.tigrisdata.com/blog/dataset-experimentation/)
 - [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2025-62229/)
-- [First look at the DGX Spark](https://xeiaso.net/blog/2025/dgx-spark-first-look/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
