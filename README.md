@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git&#39;s HTTP server side design does not scale](https://xeiaso.net/notes/2025/distributed-git-ddos/)
 - [Arcane Cheese with Doomtrain Extreme](https://xeiaso.net/notes/2025/doomtrain-ex-cheese/)
 - [New AI slop signal: code blocks with weird indentation](https://xeiaso.net/notes/2025/slop-signal-indentation/)
 - [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/)
 - [Immutable by Design: The Deep Tech Behind Tigris Bucket Forking](https://www.tigrisdata.com/blog/bucket-forking-deep-dive/)
-- [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
