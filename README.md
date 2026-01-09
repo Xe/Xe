@@ -24,6 +24,8 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 - [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/)
 <!-- BLOG-POST-LIST:END -->
 
+This is a test to make sure that I can review changes in CI.
+
 ## Sponsors ❤️
 
 All these lovely people help make my hacking possible! Thanks so much!
