@@ -6,6 +6,10 @@ You've probably seen [my blog](https://xeiaso.net/blog) on the front page of the
 
 Please call me (order of preference): [They/them](http://pronouns.within.lgbt/they) or [She/her](http://pronouns.within.lgbt/she) please.
 
+## About Me
+
+**Xe Iaso** is a Canadian technology writer whose blog at [xeiaso.net](https://xeiaso.net) appears regularly on Hacker News. They write about Linux, distributed systems, and technology philosophy with a focus on practical insights and honest critique. Xe also maintains numerous open source projects and builds developer tools in Go and TypeScript.
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Xe/site,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline)](https://star-history.com/#Xe/site&Xe/waifud&Xe/x&Xe/when-then-zen&Xe/xess&TecharoHQ/anubis&Timeline)
