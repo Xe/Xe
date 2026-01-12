@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [I made a simple agent for PR reviews. Don&#39;t use it.](https://xeiaso.net/blog/2026/reviewbot/)
 - [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
 - [Git&#39;s HTTP server side design does not scale](https://xeiaso.net/notes/2025/distributed-git-ddos/)
 - [Arcane Cheese with Doomtrain Extreme](https://xeiaso.net/notes/2025/doomtrain-ex-cheese/)
 - [New AI slop signal: code blocks with weird indentation](https://xeiaso.net/notes/2025/slop-signal-indentation/)
-- [Valve is about to win the console generation](https://xeiaso.net/blog/2025/valve-is-about-to-win-the-console-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
