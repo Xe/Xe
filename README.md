@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Life pro tip: a Steam Deck can be a bluetooth speaker](https://xeiaso.net/notes/2026/steam-deck-bluetooth-speaker/)
 - [Did Zendesk get popped?](https://xeiaso.net/notes/2026/zendesk-popped/)
 - [Backfilling Discord forum channels with the power of terrible code](https://www.tigrisdata.com/blog/discord-backfill/)
 - [Tormentmaxxing &#39;simple requests&#39;](https://xeiaso.net/notes/2026/tormentmaxxing-simple-requests/)
 - [I made a simple agent for PR reviews. Don&#39;t use it.](https://xeiaso.net/blog/2026/reviewbot/)
-- [2026 will be my year of the Linux desktop](https://xeiaso.net/notes/2026/year-linux-desktop/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
