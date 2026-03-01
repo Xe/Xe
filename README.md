@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Killing my inner Necron](https://xeiaso.net/blog/2026/killing-my-inner-necron/)
 - [Portable monitors are good](https://xeiaso.net/blog/2026/portable-monitors-are-good/)
 - [Life Update: On medical leave](https://xeiaso.net/notes/2026/life-update-medical-leave/)
 - [Anubis v1.25.0: Necron](https://github.com/TecharoHQ/anubis/releases/tag/v1.25.0)
 - [The Discourse has been Automated](https://xeiaso.net/notes/2026/the-discourse-has-been-automated/)
-- [Matrix ain&#39;t it chief](https://xeiaso.net/notes/2026/dont-use-matrix/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
