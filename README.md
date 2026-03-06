@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice for staying in the hospital for a week](https://xeiaso.net/blog/2026/hospital-advice/)
 - [The Unbound Scepter](https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/)
 - [Killing my inner Necron](https://xeiaso.net/blog/2026/killing-my-inner-necron/)
 - [Portable monitors are good](https://xeiaso.net/blog/2026/portable-monitors-are-good/)
 - [Life Update: On medical leave](https://xeiaso.net/notes/2026/life-update-medical-leave/)
-- [Anubis v1.25.0: Necron](https://github.com/TecharoHQ/anubis/releases/tag/v1.25.0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
