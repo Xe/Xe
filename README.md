@@ -18,10 +18,10 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 
 <!-- BLOG-POST-LIST:START -->
 - [Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/)
+- [Some Thorns Have Roses](https://xeiaso.net/blog/2026/some-thorns-have-roses/)
 - [Using Clankers to Help Me Process Surgery](https://xeiaso.net/blog/2026/surgery-recovery-clankers/)
 - [Advice for staying in the hospital for a week](https://xeiaso.net/blog/2026/hospital-advice/)
 - [The Unbound Scepter](https://xeiaso.net/blog/2026/seroquel-xanax-trip-report/)
-- [Killing my inner Necron](https://xeiaso.net/blog/2026/killing-my-inner-necron/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
