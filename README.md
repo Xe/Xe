@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [My homelab will be down for at least 20 days](https://xeiaso.net/notes/2026/homelab-is-down/)
 - [I don&#39;t know if I like working at higher levels of abstraction](https://xeiaso.net/blog/2026/ai-abstraction/)
 - [Vibe Coding Trip Report: Making a sponsor panel](https://xeiaso.net/blog/2026/vibe-coding-sponsor-panel/)
 - [Some Thorns Have Roses](https://xeiaso.net/blog/2026/some-thorns-have-roses/)
 - [Using Clankers to Help Me Process Surgery](https://xeiaso.net/blog/2026/surgery-recovery-clankers/)
-- [Advice for staying in the hospital for a week](https://xeiaso.net/blog/2026/hospital-advice/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
