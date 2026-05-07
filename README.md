@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Maybe you shouldn&#39;t install new software for a bit](https://xeiaso.net/blog/2026/abstain-from-install/)
 - [Claude Code won April Fools Day this year](https://xeiaso.net/notes/2026/claude-code-wins-april-fools/)
 - [Small note about AI &#39;GPUs&#39;](https://xeiaso.net/notes/2026/ai-gpus-cant-process-graphics/)
 - [Homelab downtime update: The fight for DNS supremacy](https://xeiaso.net/notes/2026/dns-fight/)
 - [My homelab will be down for at least 20 days](https://xeiaso.net/notes/2026/homelab-is-down/)
-- [I don&#39;t know if I like working at higher levels of abstraction](https://xeiaso.net/blog/2026/ai-abstraction/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
