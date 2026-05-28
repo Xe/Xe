@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/)
 - [&quot;No way to prevent this&quot; say users of only package manager where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/supply-chain/2026-art-template/)
 - [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45250/)
 - [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2026-45584/)
 - [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
-- [I&#39;m really frustrated that GitLab is doing layoffs](https://xeiaso.net/notes/2026/gitlab-layoffs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
