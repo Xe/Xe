@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agents are monads &lpar;but not that kind&rpar;](https://xeiaso.net/blog/2026/hyle-pneuma/)
 - [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/)
 - [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-55200/)
 - [I taught a bucket to speak git](https://www.tigrisdata.com/blog/objgit/)
 - [I hate compilers](https://xeiaso.net/notes/2026/anubis-wasm-vendor-binary/)
-- [Why are cached input tokens cheaper with AI services?](https://xeiaso.net/notes/2026/why-llm-cached-token-cheaper/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
