@@ -17,8 +17,8 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
-- [Presigned URLs are technically a security vuln](https://www.tigrisdata.com/blog/presigned-urls-security-vuln/)
 - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
+- [Presigned URLs are technically a security vuln](https://www.tigrisdata.com/blog/presigned-urls-security-vuln/)
 - [The console wars have been lost](https://xeiaso.net/notes/2026/console-wars-lost/)
 - [Agents are monads &lpar;but not that kind&rpar;](https://xeiaso.net/blog/2026/hyle-pneuma/)
 - [&quot;No way to prevent this&quot; say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/memory-safety/CVE-2026-8461/)
