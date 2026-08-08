@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anubis v1.27.0: Moenbryda Wilfsunnwyn](https://anubis.techaro.lol/blog/release/v1.27.0/)
 - [SigV4 authentication is surprisingly complicated](https://www.tigrisdata.com/blog/sigv4/)
 - [Presigned URLs are technically a security vuln](https://www.tigrisdata.com/blog/presigned-urls-security-vuln/)
 - [You should probably check on your smart appliances](https://xeiaso.net/notes/2026/check-your-smart-tv/)
 - [The console wars have been lost](https://xeiaso.net/notes/2026/console-wars-lost/)
-- [Agents are monads &lpar;but not that kind&rpar;](https://xeiaso.net/blog/2026/hyle-pneuma/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
