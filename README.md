@@ -18,10 +18,10 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 
 <!-- BLOG-POST-LIST:START -->
 - [If your VS Code remotes stopped working, downgrade to v1.124.x](https://xeiaso.net/notes/2026/vscode-remotes-not-working-downgrade/)
+- [How to make VS Code go back to the old UI](https://xeiaso.net/notes/2026/vscode-ui-revert/)
 - [Anubis continues to expose new ways people configure webservers](https://xeiaso.net/notes/2026/anubis-csp-worker-hell/)
 - [Site update: a few posts have been removed](https://xeiaso.net/notes/2026/blogposts-removed/)
 - [Extending immutability: deletion without losing data](https://www.tigrisdata.com/blog/soft-delete-deep-dive/)
-- [Anubis v1.27.0: Moenbryda Wilfsunnwyn](https://anubis.techaro.lol/blog/release/v1.27.0/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
