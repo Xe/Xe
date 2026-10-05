@@ -17,11 +17,11 @@ Please call me (order of preference): [They/them](http://pronouns.within.lgbt/th
 ## Recent blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Solve: AAC Heavyweight M1 &lpar;Savage&rpar;](https://xeiaso.net/blog/2026/m9s/)
 - [This is why we play](https://xeiaso.net/blog/2026/this-is-why-we-play/)
 - [You can run git on object storage if you re-make packfiles](https://www.tigrisdata.com/blog/objgit-packfiles/)
 - [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/)
 - [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
-- [Conflict resolution is “fun”](https://www.tigrisdata.com/blog/conflict-resolution-is-fun/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Sponsors ❤️
